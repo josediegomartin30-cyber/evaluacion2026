@@ -1,0 +1,686 @@
+CRITICAL - 2026-10-14 04:33:24 --> ErrorException: Undefined array key "integrantes"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 85.
+ 1 APPPATH\Views\integrantes.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 85)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:33:52 --> ErrorException: Undefined array key "integrantes"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 85.
+ 1 APPPATH\Views\integrantes.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 85)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:33:53 --> ErrorException: Undefined array key "integrantes"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 85.
+ 1 APPPATH\Views\integrantes.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 85)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:34:30 --> ErrorException: Undefined array key "integrantes"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 85.
+ 1 APPPATH\Views\integrantes.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 85)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:36:02 --> ErrorException: Undefined array key "integrantes_id"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 85.
+ 1 APPPATH\Views\integrantes.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes_id"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 85)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:36:04 --> ErrorException: Undefined array key "integrantes_id"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 85.
+ 1 APPPATH\Views\integrantes.php(85): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes_id"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 85)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:36:24 --> ErrorException: Undefined array key "nacimiento"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 88.
+ 1 APPPATH\Views\integrantes.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nacimiento"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 88)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:37:18 --> ErrorException: Undefined array key "integrantes"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 94.
+ 1 APPPATH\Views\integrantes.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 94)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:37:19 --> ErrorException: Undefined array key "integrantes"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 94.
+ 1 APPPATH\Views\integrantes.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 94)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:38:09 --> ErrorException: Undefined array key "integrantes_id"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 94.
+ 1 APPPATH\Views\integrantes.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes_id"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 94)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:38:10 --> ErrorException: Undefined array key "integrantes_id"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 94.
+ 1 APPPATH\Views\integrantes.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes_id"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 94)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:38:11 --> ErrorException: Undefined array key "integrantes_id"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 94.
+ 1 APPPATH\Views\integrantes.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes_id"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 94)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:38:11 --> ErrorException: Undefined array key "integrantes_id"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 94.
+ 1 APPPATH\Views\integrantes.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes_id"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 94)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:38:29 --> ErrorException: Undefined array key "integrantes_id"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 94.
+ 1 APPPATH\Views\integrantes.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes_id"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 94)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:38:30 --> ErrorException: Undefined array key "integrantes_id"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 94.
+ 1 APPPATH\Views\integrantes.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes_id"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 94)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:38:30 --> ErrorException: Undefined array key "integrantes_id"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 94.
+ 1 APPPATH\Views\integrantes.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes_id"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 94)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:38:31 --> ErrorException: Undefined array key "integrantes_id"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 94.
+ 1 APPPATH\Views\integrantes.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes_id"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 94)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:38:31 --> ErrorException: Undefined array key "integrantes_id"
+[Method: GET, Route: integrantes]
+in APPPATH\Views\integrantes.php on line 94.
+ 1 APPPATH\Views\integrantes.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes_id"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php', 94)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(14): view('integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:52:22 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_ciudadanos.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_ciudadanos.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_ciudadanos', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_ciudadanos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:53:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_ciudadanos.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_ciudadanos.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_ciudadanos', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_ciudadanos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:53:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_ciudadanos.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_ciudadanos.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_ciudadanos', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_ciudadanos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:53:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_ciudadanos.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_ciudadanos.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_ciudadanos', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_ciudadanos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:53:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_ciudadanos.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_ciudadanos.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_ciudadanos', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_ciudadanos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:54:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_ciudadanos.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_ciudadanos.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_ciudadanos', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_ciudadanos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:58:10 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:58:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:58:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:58:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:58:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:59:05 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:59:06 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:59:06 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:59:07 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:59:07 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 04:59:13 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:00:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:00:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:01:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:01:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:01:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:01:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:01:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:05:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:05:44 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:05:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:07:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:07:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:07:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:11:10 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:12:05 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:12:05 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:12:06 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:12:06 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "form_modificar_integrantes.php"
+[Method: GET, Route: buscar_integrantes/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form_modificar_integrantes.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 3 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-10-14 05:15:53 --> ErrorException: Undefined array key "integrantes_id"
+[Method: GET, Route: buscar_integrantes/1]
+in APPPATH\Views\form_modificar_integrantes.php on line 17.
+ 1 APPPATH\Views\form_modificar_integrantes.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "integrantes_id"', 'C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\form_modificar_integrantes.php', 17)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\xampp\\htdocs\\evaluacion2026\\app\\Views\\form_modificar_integrantes.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('form_modificar_integrantes', [], true)
+ 5 APPPATH\Controllers\IntegrantesController.php(50): view('form_modificar_integrantes', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\IntegrantesController->buscar('1')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IntegrantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
